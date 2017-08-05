@@ -1,0 +1,21 @@
+version-control helps us to quickly resolve issues.
+
+having the entire history enables you to make changes and if major then could easily rollback.
+
+auto commit like google docs is useful for online word docs, spreadsheets etc., but would not be useful for codes. 
+manual commit is best for maintaining codes, but at the same time we should ensure we are responsible enough to commit.
+
+git is used to track projects. And in projects change in one file could affect other files that are related.
+So committing multiple files in one single commit is beneficial.
+
+we can use git log to get the full history of the commits done.
+
+we can use git diff to get the details of the changes done between 2 commits.
+
+How might using version control make you more confident to make changes that could break something?
+
+The ability to restore back to a previous working version gives us the confidence.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+For now, will use it for the Udacity projects.
