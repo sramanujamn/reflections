@@ -17,6 +17,11 @@ Cloning is used to copy the remote repository to your local. You can update the 
 Branch is usually created in your local repository to add a new feature. It can then be merged with the master and then updated over to the remote repository.
 
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+This helps to resolve copnflicts if any that may occur.
+
+
 
 
 
