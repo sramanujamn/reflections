@@ -12,3 +12,13 @@ How can you use the staging area to make sure you have one commit per logical ch
 We can just add the relevant files related to a change to the staging area and then commit it.
 
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+There might be situations in our projects when major features are being added, and we do not want to make any change on the main source until or unless all the features are working fine. In this case branches will help a lot, as we could have a separate branch created for these features and can then be aded to the main branch later on once the child branch looks good.
+
+
+How do the diagrams help you visualize the branch structure?
+
+Visualizing the branch structure in a diagram makes it easier for us to understand the different branches and how they are related. It also helps us to understand which code may or may not be there in each branch.
+
+
