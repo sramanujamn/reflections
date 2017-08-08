@@ -22,3 +22,8 @@ How do the diagrams help you visualize the branch structure?
 Visualizing the branch structure in a diagram makes it easier for us to understand the different branches and how they are related. It also helps us to understand which code may or may not be there in each branch.
 
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+By merging two branches we can add the different features (branch) to the main code.So we will have a code which will contain both the branches. Representing it in a diagram makes it possible for us to see which branches will be merged and what would not be included in the merged code.
+
+
