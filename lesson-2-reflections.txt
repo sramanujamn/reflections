@@ -27,3 +27,7 @@ What is the result of merging two branches together? Why do we represent it in t
 By merging two branches we can add the different features (branch) to the main code.So we will have a code which will contain both the branches. Representing it in a diagram makes it possible for us to see which branches will be merged and what would not be included in the merged code.
 
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Git's automatic merging should be used for most of the cases. Only when its a few changes and you are fully aware of them should you go for manual merging. In this too Git is quite helpful by telling us where the conflict is occurring.
+
