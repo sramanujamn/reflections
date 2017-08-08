@@ -9,3 +9,14 @@ Why might you want to always pull changes manually rather than having Git automa
 If Git automatically updated our local copy with the remote repository then this could cause any changes made on local to get overridden which may not be
 desired by us. We should be having control on what changes we want to be done on local/remote and when.
 
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork can be used in situtations when we want to create a clone but do not want to change the original repository
+Cloning is used to copy the remote repository to your local. You can update the remote repository.
+Branch is usually created in your local repository to add a new feature. It can then be merged with the master and then updated over to the remote repository.
+
+
+
+
+
