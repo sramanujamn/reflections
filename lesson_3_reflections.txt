@@ -22,6 +22,12 @@ What is the benefit of having a copy of the last known state of the remote store
 This helps to resolve copnflicts if any that may occur.
 
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Collaborating without a version control or GitHub would be harder if multiple persons/teams are working on the project. It can also be hard for a single 
+person as we amy not be able to rollback to a particular version code (unless we have manually taken local backups).
+
+
 
 
 
