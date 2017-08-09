@@ -28,6 +28,10 @@ Collaborating without a version control or GitHub would be harder if multiple pe
 person as we amy not be able to rollback to a particular version code (unless we have manually taken local backups).
 
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When we want to add a new feature but do not want to disturb the master code until full testing is done on this new branch.
+
 
 
 
